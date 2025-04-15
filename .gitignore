@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prerequisites
 *.d
 
@@ -30,3 +31,13 @@
 *.exe
 *.out
 *.app
+=======
+# CMake build folders
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+install_manifest.txt
+CTestTestfile.cmake
+>>>>>>> d6dd1b1 (inital project)
